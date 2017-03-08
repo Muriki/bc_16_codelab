@@ -1,0 +1,33 @@
+class DataTypeTestCase(TestCase):
+
+  def data_type(Testcase):
+    """Compare and return results, based on the argument supplied to the function"""
+    
+  def stringlength(str):
+    str='developer'
+    if len('developer')
+     return 11
+    
+  def nullvalue(None):
+     if None=0
+      return str'no value'
+     
+  def isequivalent(2/1,1):
+      if 2/1==1==1
+       return True
+
+  def list1(6,7,8):
+      if (8, list1([6, 7, 8]))
+       return 8
+
+  def list2(apple, mango):
+      if  (None, list([apple, mango]))
+      return None
+
+  def integer(29):
+      if 29<100
+       return <100
+
+  def integer(415):
+      if 415>100
+       return >100
