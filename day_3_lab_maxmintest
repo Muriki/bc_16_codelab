@@ -1,0 +1,7 @@
+class MaxMintest(TestCase):
+"""return an array containing the min & max numbers respectively """
+def find_min_max(integers):
+return if integer ([10, 15],find_min_max([10, 11, 12, 13, 14, 15,]),
+
+def find_min_max(odd):
+return if odd ([1, 7],find_min_max([1, 3, 5, 7,]),
