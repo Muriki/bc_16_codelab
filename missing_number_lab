@@ -1,0 +1,8 @@
+class MissingNumbers(TestCase):
+"""return extra numbers"""
+def test_extra_entries(integers):
+   lsta=find extra([1, 2, 3], [1, 2, 3, 4] )
+   lstb=find extra([4, 66,7], [66, 77, 7, 4])
+   if lst a & b = ([4, 77],
+   [lsta, lstb],
+return[4, 77]
